@@ -89,3 +89,8 @@ The solution enables stakeholders to:
 ├── Dashboard-Screenshots/
 ├── Presentation/
 └── README.md
+## Power BI Project File
+
+The complete interactive Power BI report is available here:
+
+[View / Download Power BI Project (.pbix)](https://drive.google.com/drive/folders/128p9LY2wCtHlYOyhltDopLD3Pnu6_69k?usp=drive_link)
