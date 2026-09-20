@@ -82,15 +82,12 @@ The solution enables stakeholders to:
 ## Repository Structure
 
 ```text
-├── SQL/
-├── PowerBI/
-├── Machine-Learning/
-├── Data/
-├── Dashboard-Screenshots/
-├── Presentation/
-└── README.md
+Dashboard-Screenshots/
+README.md
+```
+
 ## Power BI Project File
 
 The complete interactive Power BI report is available here:
 
-[View / Download Power BI Project (.pbix)](https://drive.google.com/drive/folders/128p9LY2wCtHlYOyhltDopLD3Pnu6_69k?usp=drive_link)
+[View / Download Power BI Project (.pbix)](https://drive.google.com/file/d/1N-xD703oXieHQA3PpkqGHm69lfjbw4jD/view?usp=sharing)
